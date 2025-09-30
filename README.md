@@ -5,7 +5,7 @@ RandomWallpaper
 УСТАНОВКА И ЗАПУСК
 
 1. Склонируйте репозиторий:
-   ```git clone https://github.com/ваш-ник/RandomWallpaper.git```
+   ```git clone https://github.com/teat1mee/RandomWallpaper.git```
    ```cd RandomWallpaper```
 
 2. Скомпилируйте исходный код:
@@ -47,3 +47,4 @@ RandomWallpaper
 
 ЛИЦЕНЗИЯ
 Проект распространяется под лицензией MIT.
+
