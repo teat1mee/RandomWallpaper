@@ -22,9 +22,7 @@ public class RandomWallpaper {
                 file.isFile() && 
                     (file.getName().toLowerCase().endsWith(".jpg") ||
                     file.getName().toLowerCase().endsWith(".png") ||
-                    file.getName().toLowerCase().endsWith(".jpeg") || 
-                    file.getName().toLowerCase().endsWith(".gif") ||
-                    file.getName().toLowerCase().endsWith(".mp4"))
+                    file.getName().toLowerCase().endsWith(".jpeg"))
         );
 
         if(imageFiles == null || imageFiles.length == 0 ){
