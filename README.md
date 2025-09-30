@@ -7,18 +7,19 @@
 1. Склонируйте репозиторий:
    ```zsh
 git clone <URL вашего репозитория>
-cd RandomWallpaper
-```
+cd RandomWallpaper```
+
+
 
 2. Скомпилируйте исходный код:
    ```zsh
-javac -d bin src/RandomWallpaper.java
-```
+javac -d bin src/RandomWallpaper.java```
+
 
 3. Запустите приложение:
    ```zsh
-java -cp bin RandomWallpaper
-```
+java -cp bin RandomWallpaper```
+
 
 ## Требования
 - Linux с окружением GNOME
@@ -34,3 +35,4 @@ java -cp bin RandomWallpaper
 
 ## Лицензия
 MIT
+
